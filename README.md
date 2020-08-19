@@ -1,2 +1,2 @@
 # Hackerrank
-The questions solved by me in python in Hackerrank.
+Some of the solutions for python questions in Hackerrank.
